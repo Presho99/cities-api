@@ -1,0 +1,17 @@
+{
+    "cities":[
+        {
+            "id": "0",
+            "faveCity": "Kigali"
+        },
+        {
+            "id": "1",
+            "faveCity": "Mombasa"
+        },
+        {
+            "id": "2",
+            "faveCity": "Capetown"
+        }
+
+    ]
+}
