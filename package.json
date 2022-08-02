@@ -1,0 +1,23 @@
+{
+  "name": "cities-api",
+  "version": "1.0.0",
+  "description": "My Cities api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Presho99/cities-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Presho99/cities-api/issues"
+  },
+  "homepage": "https://github.com/Presho99/cities-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
